@@ -1,0 +1,25 @@
+{
+  "name": "jquery-font-chooser",
+  "version": "0.0.1",
+  "description": "This plugin allow you to turn a DIV layer into a font selector dropdown",
+  "main": "src\\jquery.fontselector.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antevenio/jQuery-Font-Chooser.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "CD1212",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antevenio/jQuery-Font-Chooser/issues"
+  },
+  "homepage": "https://github.com/Antevenio/jQuery-Font-Chooser#readme"
+}
